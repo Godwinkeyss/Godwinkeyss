@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hi,I am Godwin 👋
+  
+  I am a full stack developer.i love coding and spent all my leisure time writing codes.
+## Skills:
+   I am proficient in the following:
+- Css
+- Javascript 
+- React
+- Python
+- Flask 
+## s
+  I am currently undergoing training as a full stack developer in Udacity 
 
-<!--
-**Godwinkeyss/Godwinkeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
