@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning full stack development in udacity.
+I am currently undergoing training as a full stack developer in udacity.
 
 
 ## 🌐 Socials:
